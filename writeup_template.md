@@ -29,6 +29,7 @@ The goals / steps of this project are the following:
 [video1]: ./test_videos_output/solidWhiteRight.mp4 "Video with annotated lane lines"
 
 [video2]: ./test_videos_output/solidYellowLeft.mp4 "Video with annotated lane lines"
+
 ---
 
 ### Reflection
@@ -78,6 +79,7 @@ The resulting video of "solidWhiteRight.mp4" looks like follows:
 On the other hand the resulting video of "solidYellowLeft.mp4" is subsequently shown:
 
 ![alt text][video2]
+
 
 
 ### 2. Identify potential shortcomings with your current pipeline

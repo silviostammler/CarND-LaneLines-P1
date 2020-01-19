@@ -73,12 +73,12 @@ In order to draw a single line on the left and right lanes, the draw_lines() fun
 Based on the pipeline described above the lane lines are also detected for the video stream.
 The resulting video of "solidWhiteRight.mp4" looks like follows:
 
-![alt text][video1]
+[video1]
 
 
 On the other hand the resulting video of "solidYellowLeft.mp4" is subsequently shown:
 
-![alt text][video2]
+[video2]
 
 
 
